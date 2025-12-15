@@ -1,4 +1,4 @@
-# README
+# DineshKumarEthirajan
 
 👋 Hi, I'm Dinesh Kumar Ethirajan
 
